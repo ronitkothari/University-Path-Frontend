@@ -2,7 +2,7 @@
 
 An application to help students at Ryerson find the best possible schedules to fit their needs. Check it out at [uwscheduler.com](https://www.uwscheduler.com)!
 
-![Landing Page](https://github.com/kevinjin77/UWScheduler/raw/master/img/inputForm.png "Landing Page")
+![Landing Page](https://github.com/chennxi123/IMG/blob/main/Screenshot%202022-12-21%20121641.png "Landing Page")
 
 # Features
 ## Course Entry
