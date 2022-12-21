@@ -1,6 +1,6 @@
 # University Path
 
-Check it out at [uwpath.com](https://www.uwscheduler.com)!
+Check it out at uwpath.com/
 
 An application to help students at Ryerson find the best possible schedules to fit their needs. 
 
