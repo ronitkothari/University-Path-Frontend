@@ -1,6 +1,6 @@
 # UWScheduler
 
-An application to help Waterloo students find the best possible schedules to fit their needs. Check it out at [uwscheduler.com](https://www.uwscheduler.com)!
+An application to help students at Ryerson find the best possible schedules to fit their needs. Check it out at [uwscheduler.com](https://www.uwscheduler.com)!
 
 ![Landing Page](https://github.com/kevinjin77/UWScheduler/raw/master/img/inputForm.png "Landing Page")
 
