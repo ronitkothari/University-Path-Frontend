@@ -2,6 +2,8 @@
 
 Check it out at [uwpath.com/](https://uwpath.com/)
 
+Link to Backend Repository: https://github.com/ronitkothari/University-Path-Backend 
+
 An application to help students at Ryerson find the best possible schedules to fit their needs. 
 
 ![Landing Page](https://github.com/chennxi123/IMG/blob/main/Screenshot%202022-12-21%20121641.png "Landing Page")
